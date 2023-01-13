@@ -1,0 +1,11 @@
+html,
+body {
+  margin : 0;
+  font-family: -apple-system, sans-serif;
+  color: black;
+  background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+}
+
+* {
+  box-sizing: border-box;
+}
